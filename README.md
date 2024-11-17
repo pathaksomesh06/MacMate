@@ -1,7 +1,7 @@
 # 💻 MacMate
 
 <div align="center">
-    <img src="path_to_your_logo.png" alt="MacMate Logo" width="200"/>
+    <img src="https://github.com/pathaksomesh06/MacMate/blob/main/Screenshots/MacMate_landing.png" alt="MacMate" width="200"/>
     <h3>A MDM Agnostic Self Service Agent for macOS</h3>
 
 [![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
