@@ -69,10 +69,10 @@ MacMate is a powerful and user-friendly system management tool for macOS, design
 
 ## 📥 Installation
 
-1. ⬇️ Download the latest release from the [Releases](https://github.com/pathaksomesh06/MacMate/releases/tag/v3.0) page
-2. 📁 Move MacMate.app to your Applications folder
-3. 🚀 Launch MacMate
-4. ✅ Grant necessary permissions when prompted
+1. ⬇️ Download the latest release from the [Releases](https://github.com/pathaksomesh06/MacMate/releases/tag/v3.0) page.
+2. 📁 Follow on-screen instructions to install MacMate.
+3. 🚀 Launch MacMate.
+4. ✅ Grant necessary permissions, if prompted.
 
 ## 🔒 Security
 
