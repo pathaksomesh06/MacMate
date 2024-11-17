@@ -98,7 +98,7 @@ MacMate takes security seriously:
 - 🔵 Swift - Primary programming language
 - 🖥️ macOS APIs - Core system integration
 
-## ✍️ Authors
+## ✍️ Developed By
 
 - **Somesh Pathak** - [pathaksomesh06](https://github.com/pathaksomesh06)
 
