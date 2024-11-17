@@ -63,13 +63,13 @@ MacMate is a powerful and user-friendly system management tool for macOS, design
 
 ## 💻 Requirements
 
-- 🖥️ macOS 13.0 (Ventura) or later
+- 🖥️ macOS 14.0 (Sonoma) or later
 - 🔑 Admin rights for certain features
 - 🌐 Internet connection for updates
 
 ## 📥 Installation
 
-1. ⬇️ Download the latest release from the [Releases](https://github.com/yourusername/MacMate/releases) page
+1. ⬇️ Download the latest release from the [Releases](https://github.com/pathaksomesh06/MacMate/releases/tag/v3.0) page
 2. 📁 Move MacMate.app to your Applications folder
 3. 🚀 Launch MacMate
 4. ✅ Grant necessary permissions when prompted
@@ -89,6 +89,7 @@ MacMate takes security seriously:
 <div align="center">
     <img src="https://github.com/pathaksomesh06/MacMate/blob/main/Screenshots/MDM_detection_intune_managed.png" alt="MDM Detection" width="400"/>
     <img src="https://github.com/pathaksomesh06/MacMate/blob/main/Screenshots/Reports_jamf_managed.png.png" alt="Automatic detection of MDM enrollment status" width="400"/>
+    <img src="https://github.com/pathaksomesh06/MacMate/blob/main/Screenshots/Software_update_unmanaged_device.png" alt="Software Update" width="400"/>
 </div>
 
 ## 🛠️ Built With
@@ -99,7 +100,7 @@ MacMate takes security seriously:
 
 ## ✍️ Authors
 
-- **Somesh Pathak** - *Initial work* - [pathaksomesh06](https://github.com/pathaksomesh06)
+- **Somesh Pathak** - [pathaksomesh06](https://github.com/pathaksomesh06)
 
 ## 📝 License
 
